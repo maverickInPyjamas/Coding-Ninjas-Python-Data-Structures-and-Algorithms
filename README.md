@@ -14,5 +14,8 @@ Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732a
  | __S.NO__  | __TOPIC__ | __LINK__ | 
  | :--: | :--: | :--: | 
  | 1 | Binary Trees - 1 | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/7.%20Binary%20Trees.ipynb) | 
+ | 2 | Stacks | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/5.%20Stacks.ipynb) | 
+ | 3 | Queues | [Go](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/6.%20Queues.ipynb) | 
+ 
 
  
