@@ -14,6 +14,7 @@ Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732a
  | __S.NO__  | __TOPIC__ | __LINK__ | 
  | :--: | :--: | :--: | 
  | 1 | Recursion - 1 | [IPYNB File](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/1.%20Recursion%20-%201.ipynb) | 
+ | 2 | Recursion - 2 | [IPYNB File]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/2.%20Recursion%20-%202.ipynb) | 
 
 
- 
+
