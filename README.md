@@ -16,7 +16,10 @@ Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732a
  | 1 | Recursion - 1 | [IPYNB File](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/1.%20Recursion%20-%201.ipynb) | 
  | 2 | Recursion - 2 | [IPYNB File]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/2.%20Recursion%20-%202.ipynb) | 
  | 3 | Recursion Assignment | [IPYNB File]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/3.%20Recursion%20Assignment.ipynb) | 
+ | 4 | OOPS - 1, 2, 3 | [IPYNB File](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/4.%20OOPS%20-%20%201%2C%202%2C%203.ipynb) | 
  
+
+
 
 
 
