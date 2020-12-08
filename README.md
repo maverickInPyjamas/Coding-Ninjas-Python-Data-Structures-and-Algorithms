@@ -22,6 +22,11 @@ Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732a
  | 7 | Queues | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/8.%20Queues.ipynb) | 
  | 8 | Binary Trees - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/9.%20Binary%20Trees%20-%201%2C%202.ipynb) | 
  | 9 | Binary Search Trees - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/10.%20BST%20-%201%2C2.ipynb) | 
+ | 10 | Generic Trees | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](  https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/11.%20Generic%20Trees.ipynb) | 
+ 
+ 
+ 
+
  
  
  
