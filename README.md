@@ -17,12 +17,15 @@ Check out my [___Coding Ninjas Profile___](https://profile.codingninjas.com/732a
  | 2 | Recursion - 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/2.%20Recursion%20-%202.ipynb) | 
  | 3 | Recursion Assignment | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/3.%20Recursion%20Assignment.ipynb) | 
  | 4 | OOPS - 1, 2, 3 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/4.%20OOPS%20-%20%201%2C%202%2C%203.ipynb) | 
- | 5 | Linked List - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/6.%20Linked%20List.ipynb) | 
- | 6 | Stacks | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/7.%20Stacks.ipynb) | 
- | 7 | Queues | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/8.%20Queues.ipynb) | 
- | 8 | Binary Trees - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/9.%20Binary%20Trees%20-%201%2C%202.ipynb) | 
- | 9 | Binary Search Trees - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/10.%20BST%20-%201%2C2.ipynb) | 
- | 10 | Generic Trees | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](  https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/11.%20Generic%20Trees.ipynb) | 
+ | 5 | Time and Space complexity improvement | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/5.%20Time%20Complexity%20improvement.ipynb) | 
+ | 6 | Linked List - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/6.%20Linked%20List.ipynb) | 
+ | 7 | Stacks | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/7.%20Stacks.ipynb) | 
+ | 8 | Queues | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/8.%20Queues.ipynb) | 
+ | 9 | Binary Trees - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/9.%20Binary%20Trees%20-%201%2C%202.ipynb) | 
+ | 10 | Binary Search Trees - 1, 2 | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>]( https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/10.%20BST%20-%201%2C2.ipynb) | 
+ | 11 | Generic Trees | [<img width="37" height="32" src="https://img.icons8.com/nolan/64/tasks--v1.png"/>](  https://github.com/maverickInPyjamas/Coding-Ninjas-Python-Data-Structures-and-Algorithms/blob/master/11.%20Generic%20Trees.ipynb) | 
+ 
+
  
  
  
